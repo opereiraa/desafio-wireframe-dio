@@ -7,6 +7,9 @@ Espaço dedicado a apresentação do primeiro Desafio de Projeto da Formação U
 
 <br>
 
+<a href="https://www.figma.com/design/s6MBWnQgf6ArosrUju0ace/Desafio-de-projeto-DIO?node-id=0-1&t=UYBnJmjFcNob2EVj-1">CLIQUE AQUI PARA IR AO PROJETO NO FIGMA</a>
+
+
 [<center> CLIQUE AQUI PARA IR AO PROJETO NO FIGMA</center>](https://www.figma.com/design/s6MBWnQgf6ArosrUju0ace/Desafio-de-projeto-DIO?node-id=0-1&t=UYBnJmjFcNob2EVj-1)
 
     https://www.figma.com/design/s6MBWnQgf6ArosrUju0ace/Desafio-de-projeto-DIO?node-id=0-1&t=UYBnJmjFcNob2EVj-1
